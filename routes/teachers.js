@@ -8,7 +8,7 @@ const Student = require("../models/Student");
 // validations
 const validateRegisterInput = require("../validation/register");
 
-//@ROUTE POST localhost:3000/teacher/register
+//@ROUTE POST localhost:3000/teachers/register
 //@DESC Teacher register
 //@Parmeters(name, email, password, confirmpassword)
 
